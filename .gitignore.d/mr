@@ -6,11 +6,13 @@
 !/.config/mr/available.d/powerline.vcsh
 !/.config/mr/available.d/tmux.vcsh
 !/.config/mr/available.d/vim.vcsh
+!/.config/mr/available.d/fish.vcsh
 !/.config/mr/config.d
 !/.config/mr/config.d/mr.vcsh
 !/.config/mr/config.d/powerline.vcsh
 !/.config/mr/config.d/tmux.vcsh
 !/.config/mr/config.d/vim.vcsh
+!/.config/mr/config.d/fish.vcsh
 !/.gitignore.d
 !/.gitignore.d/mr
 !/.mrconfig
