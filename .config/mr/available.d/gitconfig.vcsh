@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/gitconfig.git]
+checkout = vcsh clone git@github.com:taintedkernel/config-gitconfig.git gitconfig 
