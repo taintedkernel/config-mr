@@ -1,6 +1,5 @@
 *
 !/.config
-!/.config/mr
 !/.config/mr/available.d
 !/.config/mr/available.d/mr.vcsh
 !/.config/mr/available.d/powerline.vcsh
